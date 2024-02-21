@@ -28,4 +28,4 @@ jobs:
       run: npm test # Or any other command to run your tests
 
     - name: Build
-      run: npm run build # Or any other command to build your code
+      run: npm run build:dev # Or any other command to build your code
